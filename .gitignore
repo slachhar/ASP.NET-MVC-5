@@ -2,6 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Vidly/bin
-/Vidly/obj
+/Vidly/*
+/Vidly2/*
+/Vidly.sln
+/Vidly2.sln
 /.vs
+/VidlyWithAuthentication/bin
+/VidlyWithAuthentication/obj
